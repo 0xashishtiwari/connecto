@@ -1,0 +1,49 @@
+# =====================
+# General
+# =====================
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+
+# =====================
+# Next.js (Frontend)
+# =====================
+.next/
+out/
+build/
+.vercel/
+.next/cache/
+
+# =====================
+# Express / Node (Backend)
+# =====================
+dist/
+coverage/
+*.log
+
+# =====================
+# Testing
+# =====================
+coverage/
+*.lcov
+
+# =====================
+# Misc
+# =====================
+*.tsbuildinfo
