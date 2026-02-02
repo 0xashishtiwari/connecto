@@ -23,7 +23,7 @@ Here're some of the project's best features:
 <p>1. Clone the Repository</p>
 
 ```
-git clone https://github.com/your-username/connecto.git
+git clone https://github.com/0xashishtiwari/connecto.git
 ```
 
 <p>2. Change the directory</p>
