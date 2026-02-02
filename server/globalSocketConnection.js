@@ -14,7 +14,7 @@ export const initializeGlobalSocketConnection = (httpServer) => {
     io.on('connection', (socket) => {
 
         socket.on('disconnect', () => {
-            console.log('user disconnected' + socket.id);
+            console.log('user disconnected : ' +  socket.id);
         }
         );
     });
